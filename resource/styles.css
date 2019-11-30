@@ -1,0 +1,32 @@
+body {
+    background-image: url("14499224024_8213e1bacc_b.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1,
+h2,
+p,
+strong,
+ol,
+li {
+    color: #3a486f;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.container {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.center {
+    text-align: center;
+}
+#under {
+    text-decoration: underline;
+}
+div.list {
+    margin-left: 40px;
+    margin-right: 10px;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
